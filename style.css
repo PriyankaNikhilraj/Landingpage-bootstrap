@@ -1,0 +1,38 @@
+
+.img1{
+    background-image: url('images/background.avif');
+    padding-left: 215px;
+    padding-bottom: 28%;
+    padding-top:10%;
+    background-repeat: no-repeat;
+}
+span{
+    font-size: 100px;
+}
+.sec1{
+    color: white;
+    text-align: center;
+    padding: 1%;
+    margin-top: -32px;
+}
+.head1{
+    display: inline;
+    color: white;
+}
+.card{
+    height: 500px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.sec2{
+    color: white;
+    text-align: center;
+    padding: 2%;
+    background-color: black;
+    margin-left: -11px;
+    margin-right: -11px;
+}
+.card:hover{
+    background-color: antiquewhite;
+}
